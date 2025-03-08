@@ -5,12 +5,12 @@ The goal of this project is to identify patterns, trends, and opportunities for 
 🚀 **Guided Project by Maven Analytics**  
 This project is part of a guided course from [Maven Analytics](https://www.mavenanalytics.io/). The dataset and project structure were provided, but all **data preparation, analysis, and visualization were completed by me**.
 
-## What I Learned
+## 📚 What I Learned
 - Data exploration & preparation for analysis.
 - Slicing and dicing the data with Excel Pivot Tables.
 - Data visualization with Pivot Charts and creation of interactive Dashboard 
 
-## Technology Used:
+## 💻  Technology Used:
 Excel
 
 ## 🚀 How to Use This Project
