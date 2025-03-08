@@ -16,7 +16,7 @@ Excel
 ## 🚀 How to Use This Project
 
 To explore the analysis, open the following link:
-👉 https://1drv.ms/x/s!AotNo-BOT0J6oXo2PvooiMvfgeYd?e=eXB8Aa
+👉 https://1drv.ms/x/s!AotNo-BOT0J6oXo2PvooiMvfgeYd?e=iVqcbU
 Also there are images of data and dashboards for each shop 
 
 ## 🔥 Key Insights
