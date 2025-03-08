@@ -26,7 +26,7 @@ indicating a likely demand for breakfast items, coffee, and quick service.
 - However, the evening hours after 6 pm in Lower Manhattan and after 7 pm in Hell's Kithcen show very low transactions.   
 - Coffee is the primary driver of sales across all locations, with tea and bakery items contributing to a smaller extent.
 
-## What recomendations can be offered:
+## 💡 What recomendations can be offered:
 - Since the evening hours are not busy, the store can loose money by keeping the store open after 6pm and it worth to change store's operations hours.  
 - Offering discounts and promotions to customers in slow hours could encourage more people to visit when the store isn’t already overwhelmed.   
 - Promoting items like breakfast sandwiches or pastries alongside coffee during peak hours could increase the average transaction value. 
