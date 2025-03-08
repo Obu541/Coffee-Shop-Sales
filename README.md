@@ -10,7 +10,7 @@ This project is part of a guided course from [Maven Analytics](https://www.maven
 - Aggregating and analyzing Airbnb listing data
 - Data visualization using Matplotlib & Seaborn
 
-## Technologie Used:
+## Technology Used:
 Excel
 
 ## 🚀 How to Use This Project
