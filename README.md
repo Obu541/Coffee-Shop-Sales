@@ -22,7 +22,7 @@ To explore the analysis, open the following link:
 ## 📸 Preview of Dashboards and Data Visualizations
 
 1. **Data Exploration Overview**  
-   ![Data Exploration](A_Data_Exploration.png)
+   ![Data Exploration](%20A_Data%20Exploration.png)
 
 2. **Astoria Shop Sales Dashboard**  
    ![Astoria Shop](Astoria%20Shop.png)
