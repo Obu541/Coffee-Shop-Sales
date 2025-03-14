@@ -17,7 +17,21 @@ Excel
 
 To explore the analysis, open the following link:
 👉 [Explore Analysis and Dashboards](https://1drv.ms/x/s!AotNo-BOT0J6oXo2PvooiMvfgeYd?e=iVqcbU) (Recommended: Open link in a new tab)  
-Also there are images of data and dashboards for each shop 
+👉 Prefer a quick look? Scroll down to preview key data insights and dashboards for each shop—no need to open the full project!
+
+## 📸 Preview of Dashboards and Data Visualizations
+
+1. **Data Exploration Overview**  
+   ![Data Exploration](A_Data_Exploration.png)
+
+2. **Astoria Shop Sales Dashboard**  
+   ![Astoria Shop](Astoria%20Shop.png)
+
+3. **Hell's Kitchen Shop Sales Dashboard**  
+   ![Hell's Kitchen Shop](Hell's%20Kitchen%20Shop.png)
+
+4. **Lower Manhattan Shop Sales Dashboard**  
+   ![Lower Manhattan Shop](Lower%20Manhattan%20Shop.png)
 
 ## 🔥 Key Insights:
 - All locations show a strong positive growth trend, suggesting increasing customer demand over time.  
@@ -27,6 +41,6 @@ indicating a likely demand for breakfast items, coffee, and quick service.
 - Coffee is the primary driver of sales across all locations, with tea and bakery items contributing to a smaller extent.
 
 ## 💡 What recomendations can be offered:
-- Since the evening hours are not busy, the store can loose money by keeping the store open after 6pm and it worth to change store's operations hours.  
+- Since the evening hours are not busy, the store may lose money by staying open after 6 pm. It’s worth considering adjusting the store’s operating hours.  
 - Offering discounts and promotions to customers in slow hours could encourage more people to visit when the store isn’t already overwhelmed.   
 - Promoting items like breakfast sandwiches or pastries alongside coffee during peak hours could increase the average transaction value. 
