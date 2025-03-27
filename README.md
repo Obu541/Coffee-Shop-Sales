@@ -16,7 +16,8 @@ Excel
 ## 🚀 How to Use This Project
 
 To explore the analysis, open the following link:
-👉 [Explore Analysis and Dashboards](https://1drv.ms/x/s!AotNo-BOT0J6oXo2PvooiMvfgeYd?e=iVqcbU) (Recommended: Open link in a new tab)  
+👉 [Explore Analysis and Dashboards](https://1drv.ms/x/s!AotNo-BOT0J6oXo2PvooiMvfgeYd?e=iVqcbU) 
+   (Recommended: Open link in a new tab)  
 👉 Prefer a quick look? Scroll down to preview key data insights and dashboards for each shop—no need to open the full project!
 
 ## 📸 Preview of Dashboards and Data Visualizations
